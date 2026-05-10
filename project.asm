@@ -1,4 +1,4 @@
-; Hotel Management System - NASM COM format with order saving
+; NASM COM format with order saving
 ; Compile: nasm project.asm -o project.com
 ; Run in DOSBox: project.com
 ; Orders saved to: orders.txt
