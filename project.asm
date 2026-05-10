@@ -11,7 +11,7 @@ section .data
 welcomeMsgTop    db 10,13,"                   ******************************************$"
 welcomeMsg1      db 10,13,"                   **                 Welcome              **$"
 welcomeMsg2      db 10,13,"                   **                    To                **$"
-welcomeMsg3      db 10,13,"                   **               Hotel  Management      **$"
+welcomeMsg3      db 10,13,"                   **               Order Now!!!           **$"
 welcomeMsg4      db 10,13,"                   **                  System              **$"
 welcomeMsgBottom db 10,13,"                   ******************************************$"
 
